@@ -6,7 +6,7 @@
         "revision":     "kitkat"
     },
     {
-        "remote":       "blobs",
+        "remote":       "CRX",
         "repository":   "proprietary_vendor_lge_mako",
         "target_path":  "vendor/lge/mako",
         "revision":     "kitkat"
@@ -18,8 +18,8 @@
         "revision":     "refs/tags/android-4.4.3_r1.1"
     },
     {
-        "remote":       "github",
-        "repository":   "AOSPA/android_hardware_qcom_display",
+        "remote":       "CRX",
+        "repository":   "android_hardware_qcom_display",
         "target_path":  "hardware/qcom/display",
         "revision":     "kitkat"
     },
