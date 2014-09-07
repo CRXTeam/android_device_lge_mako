@@ -14,7 +14,7 @@
     {
         "remote":       "CRX",
         "repository":   "proprietary_vendor_lge",
-        "target_path":  "vendor/lge/mako",
+        "target_path":  "vendor/lge",
         "revision":     "kitkat"
     },
     {
