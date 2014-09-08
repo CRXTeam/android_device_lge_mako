@@ -15,8 +15,8 @@
 #
 
 # Try to build the kernel
-TARGET_KERNEL_SOURCE := kernel/google/msm
-TARGET_KERNEL_CONFIG := cyanogen_mako_defconfig
+TARGET_KERNEL_SOURCE := kernel/google/mako
+TARGET_KERNEL_CONFIG := mako_defconfig
 
 TARGET_GLOBAL_CFLAGS += -mfpu=neon -mfloat-abi=softfp
 TARGET_GLOBAL_CPPFLAGS += -mfpu=neon -mfloat-abi=softfp
