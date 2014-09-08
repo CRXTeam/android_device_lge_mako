@@ -6,10 +6,9 @@
         "revision":     "kitkat"
     },
     {
-        "remote": "cm",
-        "revision": "cm-11.0",
-        "repository": "CyanogenMod/android_kernel_google_msm",
-        "target_path": "kernel/google/msm"
+        "remote": "CRX",
+        "repository": "android_kernel_lge_mako",
+        "target_path": "kernel/google/mako"
     },
     {
         "remote":       "CRX",
